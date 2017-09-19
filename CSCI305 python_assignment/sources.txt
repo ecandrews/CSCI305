@@ -1,0 +1,10 @@
+https://www.tutorialspoint.com/python/list_append.htm
+https://mail.python.org/pipermail/tutor/2006-March/046004.html
+stackoverflow.com/questions/1602934/check-if-a-given-key-already-exists-in-a-dictionary
+stackoverflow.com/questions/3559559/how-to-delete-a-character-from-a-string-using-python
+stackoverflow.com/questions/14368986/how-to-add-a-period-at-end-of-print
+https://docs.python.org/3/
+https://en.wikipedia.org/wiki/Bigram
+https://docs.python.org/2/tutorial/datastructures.html
+stackoverflow.com/questions/16333296/how-do-you-create-nested-dict-in-python
+https://docs.python.org/3/library/stdtypes.html#string-methods

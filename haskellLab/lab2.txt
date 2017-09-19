@@ -1,0 +1,45 @@
+Haskell Programming Lab Answers:
+
+Question 1: What did you get when running f with the input above?
+
+[13,12,11,10,9,8]
+
+Question 2: What does this function f do?
+
+The function f starts by taking in a list and some number k. If the list starts out as null, an empty list is returned. Otherwise, the ":" operator is used for list comprehension. The function adds the value k to the first value in the list, and then proceeds to recursively do the same to the rest of the values in the list by calling f again on the end of the list and adding the same value k until there is no "tail" of the list, in which case the function will just leave an empty list and return. In the example above, each value in the list is increased by 3.
+
+Question 3: What does [10, 9..5] do?
+
+I assume this means what does that exact phrase in the function call do. [10, 9..5] creates a list containing the values starting at 10 and ending at 5, with each value being decreased by one. That is, it creates the list [10, 9, 8, 7, 6, 5].
+
+Question 4: Given a comment that explains the line following (a).
+
+--if the list parameter is null
+
+Question 5: Given a comment that explains the line following (b).
+
+--then return an empty list
+
+Question 6: Given a comment that explains the line following (c).
+
+--if the list is not empty, add the value k to the first value in the list, then recursively call f on the tail of the list
+
+Question 7: Name something you like about Haskell. Explain.
+
+I really like the functionality of it. You can do some very complex things with just a small amount of code. This is my first experience with a functional language, so I found it very interesting.
+
+Question 8: Name something you dislike about Haskell. Explain.
+
+The error messages were very difficult to read. I struggled a lot with troubleshooting because I couldn't understand the error messages and there is very little online documentation of the language, as compared to more common languages like Java or Python.
+
+Question 9: How many hours did you spend on this lab?
+
+Probably around 5 or 6. While the functions themselves were not complicated to understand, I spent a lot of time figuring out the exact syntax and trying to decipher error messages.
+
+Question 10: Did you enjoy this lab?
+
+I did enjoy it, it was nice to learn more about a language I have zero experience in.
+
+Question 11: Do you think you will use Haskell again?
+
+Maybe, I would like to learn more about it because of its extreme efficiency, but I'm not sure how often I will need to use it in a professional setting. I will definitely try and mess around with Haskell more on my own.

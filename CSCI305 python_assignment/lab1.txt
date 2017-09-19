@@ -1,0 +1,19 @@
+1. Name something you like about Python. Explain.
+
+	One thing that I like about Python is how easy it is to read and write. Most of the syntax is very self-explanatory and similar to the English language. This makes it very easy to write code that other people can easily read, as well as making it easy to read and understand other people's code.
+
+2. Name something you dislike about Python. Explain.
+
+	The only thing that I dislike about Python is how important whitespace is. For me personally, it's difficult to keep track of which loops are inside of which functions, or how many times I need to indent what I'm typing to keep it inside the function I'm writing. Without something like curly braces to explicitly show where a block of code ends, I have difficulty keeping it straight sometimes.
+
+3. Did you enjoy this lab? What aspects did you like/dislike?
+
+	I enjoyed this lab very much. I haven't had to write any actual programs for any of my classes for over a year, as I'm sure is the case with many of my classmates, so I enjoyed applying the things I've learned in past classes. I also haven't done very much programming in Python, so it was fun to learn more about a language I'm not very familiar with. The only complaint I have is that the lab rubric itself was slightly unclear on whether we were supposed to provide output to the console or not. Other than that, I really enjoyed this lab a lot.
+
+4. Approximately how many hours did you spend on this lab (including learning Python)?
+
+	I think I spent approximately 5 hours on this lab over the course of a week and a half, including learning Python and writing the answers to these questions.
+
+5. Do you think you will use Python again? For what kind of projects?
+
+	I do hope to continue using Python. I think it's a very powerful language, and there is a lot you can do with very minimal code. Hopefully I will master the language more and be able to use it for programs that require reading in large amounts of text from a file or the internet, because it seems like Python is much more useful for that than a language like Java or C.
